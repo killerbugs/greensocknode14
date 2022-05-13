@@ -6,6 +6,7 @@
 
 module.exports = {
 
-  '/': 'WelcomeController.get'
+  '/': 'WelcomeController.get',
+  '/greensock': 'GreensockController.get'
 
 };
