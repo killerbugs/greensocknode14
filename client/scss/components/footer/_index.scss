@@ -1,0 +1,20 @@
+//
+// ONLY FOOTER
+//
+
+body {
+
+  // Small First
+
+
+  // Medium
+  @include breakpoint(medium up) {
+
+  }
+
+  // Large
+  @include breakpoint(large up) {
+
+  }
+
+}
